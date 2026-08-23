@@ -1,0 +1,4 @@
+streamlit
+sudachipy
+sudachidict_core
+jaconv
