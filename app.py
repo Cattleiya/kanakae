@@ -136,7 +136,7 @@ if st.button("変換する"):
                 wrap_lines=True
             )
 
-        st.caption("※ 変換結果は右上のコピーアイコンからコピーできます。")
+        st.caption("※ PCでは変換結果にマウスを合わせると、スマホでは変換結果をタップすると、右上にコピーアイコンが表示されます。")
 
         with st.expander("開発者モード（調査表示）"):
             show_debug_info(original_text)
